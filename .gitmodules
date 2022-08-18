@@ -1,0 +1,15 @@
+[submodule "toggl-dashboard"]
+	path = toggl-dashboard
+	url = git@github.com:HendricksK/toggl-dashboard.git
+[submodule "timer-service"]
+	path = timer-service
+	url = git@github.com:HendricksK/timer-service.git
+[submodule "toggle-fe"]
+	path = toggle-fe
+	url = git@github.com:HendricksK/toggle-fe.git
+[submodule "report-service"]
+	path = report-service
+	url = git@github.com:HendricksK/report-service.git
+[submodule "invoice-service"]
+	path = invoice-service
+	url = git@github.com:HendricksK/invoice-service.git
